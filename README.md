@@ -1,4 +1,3 @@
-```markdown
 # Automatic Hand Sanitizer Dispenser Firmware
 
 Welcome to the Automatic Hand Sanitizer Dispenser firmware repository! This project is designed to provide an efficient and touchless way to dispense hand sanitizer using ultrasonic sensing technology.
